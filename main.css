@@ -1,0 +1,62 @@
+body
+
+{
+    
+ background-color: burlywood;
+
+background-image:linear-gradient(brown red);
+
+background-image:-moz-element(black);
+ background-blend-mode: color-burn;
+  
+background-image: url ("image22.png");
+background-image: url(img12.png);
+ background-repeat: no-repeat;
+  border-image-width: 500px;
+  
+      
+     /* padding: 5px;
+        text-decoration:blue;
+        background-color:chocolate;
+        color:whitesmoke;
+        border:3em 3em ;
+        border-top-left-radius: 10em 10em;
+        border-top-right-radius:10em 10em;
+        height: 6000px;
+        width: 200px;
+        float:left;
+        line-height: 30px;
+        line-break:auto;
+
+    }
+
+    footer
+    {
+      text-align: center;
+    background-color:darkblue rgba(235, 135, 135, 0);
+      margin-right: 200px;
+    }
+
+
+    header
+    {
+      text-align: center;
+    }
+
+
+    #memeimage
+    {
+      margin-right: 200px;
+    }
+   
+   
+    p
+    {
+        text-align: right;
+        font-size: 20px;
+        font-family:Arial, Helvetica, sans-serif
+        font-weight bolder;
+        color: white;
+        text-decoration:black;
+       */ text-decoration-color:red ;
+    }
